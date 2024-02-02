@@ -2,7 +2,7 @@
     "name": "LC-K8",
     "version_number": "1.0.0",
     "website_url": "https://github.com/Netruitus/lc-k8",
-    "description": "Lethal Company modpack: Curated for K8 community, periodically updated to enhance fun gameplay while balancing difficulty.",
+    "description": "Lethal Company modpack. Curated for K8 community, periodically updated to enhance fun gameplay while balancing difficulty.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
         "tinyhoot-ShipLoot-1.0.0",
