@@ -37,3 +37,8 @@ jobs:
           file: modpack.zip
           categories: |
             modpacks
+      
+      - name: Create Tag
+        run: |
+          git tag -a v${{ env.MODPACK_VERSION }} -m "[auto] Public version ${{ env.MODPACK_VERSION }}"
+          git push origin --tags
