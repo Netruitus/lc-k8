@@ -7,5 +7,3 @@ Explore a plethora of mods curated for maximum enjoyment, from altering monster 
 ## Updates & Stability
 
 Expect periodic updates aligned with community gameplay. Rest assured, our meticulously tested configurations ensure stability and seamless integration. For optimal performance, refrain from updating individual mods outside the "modpack" module; diverging may result in instability.
-
-## Included Packages

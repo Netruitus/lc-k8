@@ -1,0 +1,44 @@
+name: Publish mod in Thunderstore
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Extract manifest info
+        id: extract_manifest
+        run: |
+          echo "MODPACH_NAME=$(jq -r '.name' manifest.json)" >> "$GITHUB_ENV"
+          echo "MODPACK_VERSION=$(jq -r '.version_number' manifest.json)" >> "$GITHUB_ENV"
+          echo "MODPACK_DESCRIPTION=$(jq -r '.description' manifest.json)" >> "$GITHUB_ENV"
+
+      - name: Zip files
+        run: |
+          zip -r modpack.zip * -x .github\*
+
+      - name: Upload to Thunderstore
+        uses: GreenTF/upload-thunderstore-package@v4.2
+        with:
+          namespace: K8
+          description: ${{ env.MODPACK_DESCRIPTION }} 
+          token: ${{ secrets.THUNDERSTORE_TOKEN }}
+          name: ${{ env.MODPACH_NAME }}
+          version: ${{ env.MODPACK_VERSION }}
+          community: lethal-company
+          repo: https://github.com/Netruitus/lc-k8
+          file: modpack.zip
+          categories: |
+            modpacks
+      
+      - name: Create Tag
+        run: |
+          git tag -a v${{ env.MODPACK_VERSION }} -m "[auto] Public version ${{ env.MODPACK_VERSION }}"
+          git push origin --tags
