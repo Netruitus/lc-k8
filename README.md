@@ -32,6 +32,7 @@ This modpack is a curated collection of popular mods, bundled together to introd
     - See voice activity (your own and your companion's)
     - Faster update for in-game clock
     - See your HP
+    - Be informed about discounts!
 - Fun-ctionality
     - Deja Vu flavor of Thumper chase
     - Hoarder bugs can use items now (don't give them shotgun)
