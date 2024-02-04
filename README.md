@@ -2,7 +2,7 @@
 
 Welcome to the LC K8 modpack, exclusively designed for the K8 community!
 
-This modpack is a curated collection of popular mods, bundled together to introduce Quality of Life changes, balance the game, and present new challenges. Enjoy the enhanced gameplay experience!
+This modpack is a curated collection of popular mods (over 50!), bundled together to introduce Quality of Life changes, balance the game, and present new challenges. Enjoy the enhanced gameplay experience!
 
 ## Features
 
