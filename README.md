@@ -19,6 +19,7 @@ This modpack is a curated collection of popular mods, bundled together to introd
     - Hear active Walkies
     - Better saving (and more items to save)
     - More accuracte stamina display
+    - Intro is no more!
 - Convenience features
     - Keep your items when using inverse teleporter
     - More terminal commands
