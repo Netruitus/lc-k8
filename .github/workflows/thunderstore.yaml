@@ -27,7 +27,7 @@ jobs:
       - name: Upload to Thunderstore
         uses: GreenTF/upload-thunderstore-package@v4.2
         with:
-          namespace: K8
+          namespace: Netruitus
           description: ${{ env.MODPACK_DESCRIPTION }} 
           token: ${{ secrets.THUNDERSTORE_TOKEN }}
           name: ${{ env.MODPACH_NAME }}
