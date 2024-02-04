@@ -47,6 +47,7 @@ This modpack is a curated collection of popular mods, bundled together to introd
     - Worse weather = Better scrap
     - Some monsters can speak your friends' voices
     - Imagine masked enemies without masks and able mimicing players' behavior...
+- And Discord Rich Presence support
 
 ## Updates
 
