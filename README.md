@@ -40,6 +40,7 @@ This modpack is a curated collection of popular mods, bundled together to introd
     - Yippee!
     - More emotes and even more emotes!
     - Coil Head might have a staring contest with you now...
+    - Hear screams of your friends a bit longer
 - Challenges
     - Worse weather = Better scrap
     - Some monsters can speak your friends' voices
