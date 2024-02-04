@@ -1,3 +1,7 @@
+## 2.0.1
+
+- Don't worry about it, it's only CI update. Nothing in the modpack changed actually
+
 ## 2.0.0
 
 - Added more mods:
