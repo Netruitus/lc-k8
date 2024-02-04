@@ -28,6 +28,7 @@ This modpack is a curated collection of popular mods, bundled together to introd
     - Switch radar's target in terminal with arrows
     - Faster dropship, because time is money
     - Reserved additonal slots for flashlight and walkie
+    - Touchscreen!
 - UI changes
     - See voice activity (your own and your companion's)
     - Faster update for in-game clock
