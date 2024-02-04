@@ -31,9 +31,8 @@ jobs:
         fi
 
     - name: Check if CHANGELOG.md was updated
-      id: check_changelog_updated
       run: |
-        if git log --format=oneline --no-decorate --name-only -n 1 | grep -q 'CHANGELOG.md'; then
+        if git diff --name-only HEAD^ HEAD | grep -q 'CHANGELOG.md'; then
           echo "CHANGELOG.md was updated. Proceeding..."
         else
           echo "CHANGELOG.md was not updated."
