@@ -1,3 +1,10 @@
+## 2.1.0
+
+- Updated mods
+- Added big ass text it's K8 modpack
+    - In-game version will be updated automatically
+- Sync config changes
+
 ## 2.0.1
 
 - Don't worry about it, it's only CI update. Nothing in the modpack changed actually
