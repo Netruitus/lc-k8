@@ -53,7 +53,9 @@ This modpack is a curated collection of popular mods (over 50!), bundled togethe
 
 ## Updates
 
-Anticipate periodic updates synchronized with community gameplay sessions, typically occurring once every one to two weeks. Modpack updates are exclusively handled by the modpack itself; updating individual mods independently may lead to instability.
+Expect updates every Friday/Saturday, depending on my community's activity. Mod updates are exclusively handled by the modpack itself.
+
+Updating individual mods independently may lead to further instability.
 
 ## Disclaimer
 
