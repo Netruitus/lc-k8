@@ -53,7 +53,9 @@ This modpack is a curated collection of popular mods (over 50!), bundled togethe
 
 ## Updates
 
-Expect updates every Friday/Saturday, depending on my community's activity. Mod updates are exclusively handled by the modpack itself.
+Expect updates every Friday/Saturday, depending on my community's activity. Mod updates are exclusively handled by the modpack itself - click update on modpack only to sync all mods.
+
+![update](update.png)
 
 Updating individual mods independently may lead to further instability.
 
