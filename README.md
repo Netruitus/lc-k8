@@ -53,10 +53,14 @@ This modpack is a curated collection of popular mods (over 50!), bundled togethe
 
 ## Updates
 
-Expect updates every Friday/Saturday, depending on my community's activity. Mod updates are exclusively handled by the modpack itself.
+Expect updates every Friday/Saturday, depending on my community's activity. Mod updates are exclusively handled by the modpack itself - click update on modpack only to sync all mods.
+
+![update](update.png)
 
 Updating individual mods independently may lead to further instability.
 
 ## Disclaimer
 
 This modpack is not officially vetted for stability, and support for stability issues is not provided. Use at your own discretion and understanding.
+
+I'm well aware that the IntroTweaks mod is deprecated, but it will be left as a part of the modpack until an alternative will be created.

@@ -1,3 +1,8 @@
+## 2.1.1
+
+- Updated mods
+- Updated info about updating
+
 ## 2.1.0
 
 - Updated mods
