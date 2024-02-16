@@ -62,3 +62,5 @@ Updating individual mods independently may lead to further instability.
 ## Disclaimer
 
 This modpack is not officially vetted for stability, and support for stability issues is not provided. Use at your own discretion and understanding.
+
+I'm well aware that the IntroTweaks mod is deprecated, but it will be left as a part of the modpack until an alternative will be created.
