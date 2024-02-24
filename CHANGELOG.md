@@ -1,3 +1,8 @@
+## 2.1.2
+
+- Yet another periodic mods update
+- Update.png didn't work properly, so I uploaded it somewhere else
+
 ## 2.1.1
 
 - Updated mods
