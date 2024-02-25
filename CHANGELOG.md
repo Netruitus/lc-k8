@@ -1,3 +1,7 @@
+## 2.2.0
+- Yet another mod updated
+- Added LethalConfig, so now you can configure mods in game
+
 ## 2.1.2
 
 - Yet another periodic mods update
