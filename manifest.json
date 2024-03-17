@@ -53,6 +53,9 @@
         "mrov-LethalRichPresence-0.5.8",
         "Azim-LethalPresents-1.0.4",
         "TheDeadSnake-Touchscreen-1.1.0",
-        "AinaVT-LethalConfig-1.3.4"
+        "AinaVT-LethalConfig-1.3.4",
+        "IntegrityChaos-GraphicsAPI-1.0.0",
+        "IntegrityChaos-LCCutscene-1.0.0",
+        "IntegrityChaos-Diversity-2.0.3"
     ]    
   }
