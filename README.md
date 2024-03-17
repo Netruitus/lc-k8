@@ -10,8 +10,7 @@ This modpack is a curated collection of popular mods (over 50!), bundled togethe
     - Disabled logging console by default
     - Mod configs adjusted for balance
 - QoL changes
-    - More companions! And they can be late joiners too
-    - No more jumping lag
+    - More coworkers! And they can be late joiners too
     - See directly below
     - See total value of all scrap in your ship
     - More graphic settings
@@ -20,6 +19,11 @@ This modpack is a curated collection of popular mods (over 50!), bundled togethe
     - Better saving (and more items to save)
     - More accuracte stamina display
     - Intro is no more!
+- Fixes
+    - No more jumping lag
+    - Hitboxes on doors work properly
+    - More sounds can be heard now
+    - Not one, not two, but three general lag fixes! 
 - Convenience features
     - Keep your items when using inverse teleporter
     - More terminal commands
@@ -29,11 +33,14 @@ This modpack is a curated collection of popular mods (over 50!), bundled togethe
     - Faster dropship, because time is money
     - Reserved additonal slots for flashlight and walkie
     - Touchscreen!
-- UI changes
+    - Buyable shoutgun shells (you might need them now...)
+    - Some fluorescent paint was spread on your boots
+- UI/UX changes
     - See voice activity (your own and your companion's)
     - Faster update for in-game clock
     - See your HP
     - Be informed about discounts!
+    - Game sounds differently. You will use to it
 - Fun-ctionality
     - Deja Vu flavor of Thumper chase
     - Hoarder bugs can use items now (don't give them shotgun)
@@ -44,11 +51,19 @@ This modpack is a curated collection of popular mods (over 50!), bundled togethe
     - More emotes and even more emotes!
     - Coil Head might have a staring contest with you now...
     - Hear screams of your friends a bit longer
+    - BONK!
+    - You can play LC on Windows, but why the ship was lacking them?
+    - More scrap, more items and one some evil roomba
+    - If you friend is not moving, you should move them
+    - CATS!
 - Challenges
     - Worse weather = Better scrap
     - Some monsters can speak your friends' voices
     - Imagine masked enemies without masks and able mimicing players' behavior...
     - Some presents can be surprisingly deadly
+    - Monsters behavior is next level now
+    - Two more maps
+    - Brutal challenges are here
 - And Discord Rich Presence support
 
 ## Updates

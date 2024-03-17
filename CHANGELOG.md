@@ -1,3 +1,37 @@
+## 3.0.0
+- Updated mods:
+    - TooManyEmotes
+    - IntroTweaks
+    - Coroner
+    - CoilHeadStare
+    - Skinwalkers
+    - Reserved slots
+- Fix for IntroTweaks (renaming configs, are we now?)
+- Clean up of unused mods:
+    - InputUtils
+    - LC_API
+    - HideModList (since LC_API is removed)
+- More mods!
+    - Diversity
+    - BonkHitSFX
+    - DoorFix
+    - LCMaxSoundFix
+    - ShipWindows
+    - LethalThings
+    - BuyableShotgunShells
+    - PushCompany
+    - Glow_Steps
+    - LETHALRESONANCE
+    - Scoopys_Variety_Mod
+    - Brutal_Company_Plus
+    - DissonanceLagFix
+    - FixCentipedeLag
+    - FixRPCLag
+    - NeedyCats
+- ...aaaand dependencies
+- You can now spot player's nameplates from the distance
+- ...but mimics now use them as well
+
 ## 2.2.0
 - Yet another mod updated
 - Added LethalConfig, so now you can configure mods in game
