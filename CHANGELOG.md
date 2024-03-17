@@ -6,7 +6,7 @@
     - CoilHeadStare
     - Skinwalkers
     - Reserved slots
-- Fix for IntroTweaks (renaming configs, are we now?)
+- Fix for IntroTweaks (renaming configs, are we now?) <- This even failed my CI
 - Clean up of unused mods:
     - InputUtils
     - LC_API
