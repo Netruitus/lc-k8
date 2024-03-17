@@ -21,7 +21,7 @@ jobs:
 
       - name: Update modpack version
         run: |
-          sed -i 's/__VERSION__/${{ env.MODPACK_VERSION }}/g' config/io.github.IntroTweaks.cfg
+          sed -i 's/__VERSION__/${{ env.MODPACK_VERSION }}/g' config/IntroTweaks.cfg
 
       - name: Zip files
         run: |
