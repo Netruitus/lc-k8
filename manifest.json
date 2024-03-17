@@ -73,6 +73,7 @@
         "linkoid-DissonanceLagFix-1.0.0",
         "MassiveNewCoilers-FixCentipedeLag-2023.12.7",
         "Bobbie-FixRPCLag-1.0.1",
-        "Ozone-BepInUtils-1.2.1"
+        "Ozone-BepInUtils-1.2.1",
+        "Jordo-NeedyCats-1.2.1"
     ]    
   }
