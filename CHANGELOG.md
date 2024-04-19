@@ -6,6 +6,7 @@
     - LethalLib
     - LethalThings
     - ShipWindows
+    - LethalConfig
 
 ## 3.0.0
 - Updated mods:
