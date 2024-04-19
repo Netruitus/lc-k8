@@ -8,6 +8,7 @@
     - ShipWindows
     - LethalConfig
     - Touchscreen
+    - LethalPresents
 
 ## 3.0.0
 - Updated mods:
