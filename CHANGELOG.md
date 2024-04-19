@@ -7,6 +7,7 @@
     - LethalThings
     - ShipWindows
     - LethalConfig
+    - Touchscreen
 
 ## 3.0.0
 - Updated mods:
