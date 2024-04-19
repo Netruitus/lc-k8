@@ -1,6 +1,9 @@
 ## 3.1.0
 - Disabled Brutal_Company_plus because of bugs with v50
-- Removed Scoopys Variety Mod due to a lot of issues with LethalLevelLoader (dependency)
+- Removed:
+    - Scoopys Variety Mod due to a lot of issues with LethalLevelLoader (dependency)
+    - Runtime_Netcode_Patcher
+    - More_Emotes
 - Updated:
     - loaforcsSoundAPI
     - LethalLib
