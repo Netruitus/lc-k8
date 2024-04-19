@@ -12,6 +12,7 @@
     - LethalConfig
     - Touchscreen
     - LethalPresents
+    - TooManyEmotes
 
 ## 3.0.0
 - Updated mods:
