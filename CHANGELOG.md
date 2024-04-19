@@ -4,6 +4,7 @@
     - Scoopys Variety Mod due to a lot of issues with LethalLevelLoader (dependency)
     - Runtime_Netcode_Patcher
     - More_Emotes
+    - EmployeeAssignments
 - Updated:
     - loaforcsSoundAPI
     - LethalLib
