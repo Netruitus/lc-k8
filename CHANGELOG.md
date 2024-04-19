@@ -19,6 +19,7 @@
     - AlwaysHearActiveWalkies
     - More_Suits
     - MoreCompany
+    - LateCompany
 
 ## 3.0.0
 - Updated mods:
