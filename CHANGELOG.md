@@ -20,6 +20,7 @@
     - More_Suits
     - MoreCompany
     - LateCompany
+    - LethalFashion
 
 ## 3.0.0
 - Updated mods:
