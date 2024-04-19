@@ -1,3 +1,6 @@
+## 3.1.0
+- Disabled Brutal_Company_plus because of bugs with v50
+
 ## 3.0.0
 - Updated mods:
     - TooManyEmotes
