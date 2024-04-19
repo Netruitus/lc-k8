@@ -18,6 +18,7 @@
     - Skinwalkers
     - AlwaysHearActiveWalkies
     - More_Suits
+    - MoreCompany
 
 ## 3.0.0
 - Updated mods:
