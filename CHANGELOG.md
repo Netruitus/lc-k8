@@ -14,6 +14,7 @@
     - LethalPresents
     - TooManyEmotes
     - Reserved Slots
+    - AccurateStaminaDisplay
 
 ## 3.0.0
 - Updated mods:
