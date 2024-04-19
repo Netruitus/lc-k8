@@ -13,6 +13,7 @@
     - Touchscreen
     - LethalPresents
     - TooManyEmotes
+    - Reserved Slots
 
 ## 3.0.0
 - Updated mods:
