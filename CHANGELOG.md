@@ -4,6 +4,7 @@
 - Updated:
     - loaforcsSoundAPI
     - LethalLib
+    - LethalThings
 
 ## 3.0.0
 - Updated mods:
