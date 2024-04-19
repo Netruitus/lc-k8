@@ -1,5 +1,6 @@
 ## 3.1.0
 - Disabled Brutal_Company_plus because of bugs with v50
+- Removed Scoopys Variety Mod due to a lot of issues with LethalLevelLoader (dependency)
 
 ## 3.0.0
 - Updated mods:
