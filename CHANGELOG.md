@@ -5,6 +5,7 @@
     - loaforcsSoundAPI
     - LethalLib
     - LethalThings
+    - ShipWindows
 
 ## 3.0.0
 - Updated mods:
