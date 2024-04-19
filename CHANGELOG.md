@@ -17,6 +17,7 @@
     - AccurateStaminaDisplay
     - Skinwalkers
     - AlwaysHearActiveWalkies
+    - More_Suits
 
 ## 3.0.0
 - Updated mods:
