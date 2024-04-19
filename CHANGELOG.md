@@ -3,6 +3,7 @@
 - Removed Scoopys Variety Mod due to a lot of issues with LethalLevelLoader (dependency)
 - Updated:
     - loaforcsSoundAPI
+    - LethalLib
 
 ## 3.0.0
 - Updated mods:
