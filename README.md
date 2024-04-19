@@ -45,7 +45,6 @@ This modpack is a curated collection of popular mods (over 50!), bundled togethe
     - Deja Vu flavor of Thumper chase
     - Hoarder bugs can use items now (don't give them shotgun)
     - More causes of death
-    - ~~Quests!~~ Assignments!
     - More suits! More cosmetics! And your fashion choice saves too!
     - Yippee!
     - More emotes and even more emotes!
@@ -62,7 +61,6 @@ This modpack is a curated collection of popular mods (over 50!), bundled togethe
     - Imagine masked enemies without masks and able mimicing players' behavior...
     - Some presents can be surprisingly deadly
     - Monsters behavior is next level now
-    - Two more maps
     - Brutal challenges are here
 - And Discord Rich Presence support
 
