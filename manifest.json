@@ -5,7 +5,7 @@
     "description": "A compilation of popular mods bundled together to introduce Quality of Life improvements, balance gameplay, and introduce fresh challenges.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
-        "tinyhoot-ShipLoot-1.0.0",
+        "tinyhoot-ShipLoot-1.1.0",
         "FlipMods-LetMeLookDown-1.0.1",
         "BatTeam-LethalFashion-1.0.7",
         "FlipMods-FasterItemDropship-1.2.1",

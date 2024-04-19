@@ -21,6 +21,7 @@
     - MoreCompany
     - LateCompany
     - LethalFashion
+    - ShipLoot
 
 ## 3.0.0
 - Updated mods:
