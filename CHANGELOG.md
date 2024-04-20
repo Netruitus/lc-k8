@@ -13,6 +13,7 @@
 - Updated:
     - Touchscreen
     - TooManyEmotes
+    - Reserved Slots
 
 ## 3.1.0
 - Removed:
