@@ -1,3 +1,7 @@
+## 3.2.0
+- Replaced:
+    - FixCentipedeLag with PathfindingLagFix
+
 ## 3.1.0
 - Removed:
     - Scoopys Variety Mod due to a lot of issues with LethalLevelLoader (dependency)
