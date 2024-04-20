@@ -51,9 +51,6 @@
         "Azim-LethalPresents-1.0.7",
         "TheDeadSnake-Touchscreen-1.1.1",
         "AinaVT-LethalConfig-1.4.1",
-        "IntegrityChaos-GraphicsAPI-1.0.0",
-        "IntegrityChaos-LCCutscene-1.0.0",
-        "IntegrityChaos-Diversity-2.0.3",
         "sunnobunno-BonkHitSFX-1.0.5",
         "itsmeowdev-DoorFix-1.0.0",
         "Hardy-LCMaxSoundsFix-1.1.0",
@@ -69,6 +66,7 @@
         "Zaggy1024-PathfindingLagFix-1.2.1",
         "Bobbie-FixRPCLag-1.0.1",
         "Ozone-BepInUtils-1.2.1",
-        "Jordo-NeedyCats-1.2.1"
+        "Jordo-NeedyCats-1.2.1",
+        "Evaisa-FixPluginTypesSerialization-1.1.1"
     ]    
   }

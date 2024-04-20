@@ -1,6 +1,10 @@
 ## 3.2.0
 - Replaced:
     - FixCentipedeLag with PathfindingLagFix
+- Added:
+    - FixPluginTypesSerialization
+- Removed: 
+    - Diversity due to various issues
 
 ## 3.1.0
 - Removed:
