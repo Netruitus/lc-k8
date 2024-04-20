@@ -1,6 +1,6 @@
 {
     "name": "LC_K8",
-    "version_number": "3.2.0",
+    "version_number": "3.2.1",
     "website_url": "https://github.com/Netruitus/lc-k8",
     "description": "A compilation of popular mods bundled together to introduce Quality of Life improvements, balance gameplay, and introduce fresh challenges.",
     "dependencies": [
