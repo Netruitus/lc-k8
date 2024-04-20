@@ -10,6 +10,8 @@
     - AsyncLoggers
 - Removed: 
     - Diversity due to various issues
+- Updated:
+    - Touchscreen
 
 ## 3.1.0
 - Removed:
