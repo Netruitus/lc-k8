@@ -1,6 +1,7 @@
 ## 3.2.0
 - Replaced:
     - FixCentipedeLag with PathfindingLagFix
+    - MaskedEnemyOverhaul and Skinwalkers with Mirage
 - Added:
     - FixPluginTypesSerialization
 - Removed: 
