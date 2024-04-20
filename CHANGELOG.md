@@ -15,6 +15,8 @@
     - TooManyEmotes
     - Reserved Slots
 
+Special thanks to Arterra003_ for recommendations and help with the modpack!
+
 ## 3.1.0
 - Removed:
     - Scoopys Variety Mod due to a lot of issues with LethalLevelLoader (dependency)
