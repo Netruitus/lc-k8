@@ -5,6 +5,7 @@
 - Added:
     - FixPluginTypesSerialization
     - StarlancerAIFix
+    - CleanerLogs
 - Removed: 
     - Diversity due to various issues
 
