@@ -7,6 +7,7 @@
     - StarlancerAIFix
     - CleanerLogs
     - CullFactory
+    - AsyncLoggers
 - Removed: 
     - Diversity due to various issues
 
