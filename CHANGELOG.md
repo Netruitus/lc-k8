@@ -12,6 +12,7 @@
     - Diversity due to various issues
 - Updated:
     - Touchscreen
+    - TooManyEmotes
 
 ## 3.1.0
 - Removed:
