@@ -4,6 +4,7 @@
     - MaskedEnemyOverhaul and Skinwalkers with Mirage
 - Added:
     - FixPluginTypesSerialization
+    - StarlancerAIFix
 - Removed: 
     - Diversity due to various issues
 
