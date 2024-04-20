@@ -6,6 +6,7 @@
     - FixPluginTypesSerialization
     - StarlancerAIFix
     - CleanerLogs
+    - CullFactory
 - Removed: 
     - Diversity due to various issues
 
