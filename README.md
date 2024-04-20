@@ -2,7 +2,7 @@
 
 Welcome to the LC K8 modpack, exclusively designed for the K8 community!
 
-This modpack is a curated collection of popular mods (over 50!), bundled together to introduce Quality of Life changes, balance the game, and present new challenges. Enjoy the enhanced gameplay experience!
+This modpack is a curated collection of popular mods (over 70!), bundled together to introduce Quality of Life changes, balance the game, and present new challenges. Enjoy the enhanced gameplay experience!
 
 ## Features
 
@@ -11,22 +11,24 @@ This modpack is a curated collection of popular mods (over 50!), bundled togethe
     - Mod configs adjusted for balance
 - QoL changes
     - More coworkers! And they can be late joiners too
-    - See directly below
+    - See your feet and what's below
     - See total value of all scrap in your ship
     - More graphic settings
     - No more limits on how much you can sell at once
     - Hear active Walkies
     - Better saving (and more items to save)
-    - More accuracte stamina display
     - Intro is no more!
 - Fixes
-    - No more jumping lag
-    - Hitboxes on doors work properly
-    - More sounds can be heard now
-    - Not one, not two, but three general lag fixes! 
+    - There is a bunch of performance fixes
+    - Some are better visible (no jumping lag) than others
+    - Even some hitboxes are fixed
+    - Or more sounds can be heard
+    - Or AI works better
+    - But overally the game should work better now
+    - And unless you want to debug issues on your own, all logs are disabled to achieve it
 - Convenience features
     - Keep your items when using inverse teleporter
-    - More terminal commands
+    - More terminal commands + history (Linux masterrace)
     - Monitor what your companions see
     - (A little) More stamina!
     - Switch radar's target in terminal with arrows
@@ -39,29 +41,27 @@ This modpack is a curated collection of popular mods (over 50!), bundled togethe
     - See voice activity (your own and your companion's)
     - Faster update for in-game clock
     - See your HP
+    - More accurate stamina display
     - Be informed about discounts!
-    - Game sounds differently. You will use to it
+    - Game sounds differently. You will use to it (or not)
 - Fun-ctionality
-    - Deja Vu flavor of Thumper chase
-    - Hoarder bugs can use items now (don't give them shotgun)
+    - Hoarder bugs can use items now (shotguns too)
     - More causes of death
     - More suits! More cosmetics! And your fashion choice saves too!
     - Yippee!
-    - More emotes and even more emotes!
+    - More emotes!
     - Coil Head might have a staring contest with you now...
     - Hear screams of your friends a bit longer
     - BONK!
     - You can play LC on Windows, but why the ship was lacking them?
-    - More scrap, more items and one some evil roomba
+    - More scrap, more items and some evil roomba
     - If you friend is not moving, you should move them
     - CATS!
 - Challenges
     - Worse weather = Better scrap
     - Some monsters can speak your friends' voices
-    - Imagine masked enemies without masks and able mimicing players' behavior...
+    - There are some very convincing player mimicks around...
     - Some presents can be surprisingly deadly
-    - Monsters behavior is next level now
-    - Brutal challenges are here
 - And Discord Rich Presence support
 
 ## Updates
