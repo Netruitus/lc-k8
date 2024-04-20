@@ -1,3 +1,14 @@
+## 3.2.1
+- Updated manifest to have all mods sorted alphabetically
+- Updated readme
+- For DCMA sake removed Deja Vu chase sound QQ
+- Added forgotten mods:
+    - InputUtils
+    - ToggleMute
+    - TerminalApi
+    - DetailedScan
+    - Terminal_History
+
 ## 3.2.0
 - Replaced:
     - FixCentipedeLag with PathfindingLagFix
