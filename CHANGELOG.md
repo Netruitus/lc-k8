@@ -1,6 +1,7 @@
 ## 3.2.2
 - Updated:
     - ShipWindows
+    - Mirage
 
 ## 3.2.1
 - Updated manifest to have all mods sorted alphabetically
