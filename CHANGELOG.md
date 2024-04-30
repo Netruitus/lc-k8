@@ -5,6 +5,7 @@
     - MoreCompany
     - TerminalApi
     - LETHALRESONANCE
+    - CullFactory
 
 ## 3.2.1
 - Updated manifest to have all mods sorted alphabetically
