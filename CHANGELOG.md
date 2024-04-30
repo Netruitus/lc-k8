@@ -7,6 +7,7 @@
     - LETHALRESONANCE
     - CullFactory
     - TooManyEmotes
+    - ReservedItemSlotCore
 
 ## 3.2.1
 - Updated manifest to have all mods sorted alphabetically
