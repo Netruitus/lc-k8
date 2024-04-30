@@ -11,6 +11,7 @@
     - AccurateStaminaDisplay
     - StarlancerAIFix
     - LethalConfig
+- Now all emotes are unlocked from the start
 
 ## 3.2.1
 - Updated manifest to have all mods sorted alphabetically
