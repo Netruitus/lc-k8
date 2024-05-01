@@ -1,6 +1,6 @@
 {
     "name": "LC_K8",
-    "version_number": "3.2.1",
+    "version_number": "3.2.2",
     "website_url": "https://github.com/Netruitus/lc-k8",
     "description": "A compilation of popular mods bundled together to introduce Quality of Life improvements, balance gameplay, and introduce fresh challenges.",
     "dependencies": [
@@ -8,11 +8,11 @@
 
         "5Bit-VoiceHUD-1.0.4",
 
-        "AinaVT-LethalConfig-1.4.1",
+        "AinaVT-LethalConfig-1.4.2",
         "akechii-DiscountAlert-2.3.0",
         "anormaltwig-LateCompany-1.0.13",
         "anormaltwig-TerminalExtras-1.0.1",
-        "AudioKnight-StarlancerAIFix-3.5.1",
+        "AudioKnight-StarlancerAIFix-3.6.0",
         "Azim-LethalPresents-1.0.7",
 
         "BatTeam-LethalFashion-1.0.7",
@@ -21,7 +21,7 @@
         "Bobbie-FixRPCLag-1.0.1",
         "Bobbie-NAudio-2.2.2",
         "Bobbie-UniTask-2.5.0",
-        "ButteryStancakes-AccurateStaminaDisplay-2.0.2",
+        "ButteryStancakes-AccurateStaminaDisplay-2.0.4",
 
         "Drakorle-MoreItems-1.0.2",
 
@@ -39,10 +39,10 @@
         "FlipMods-FasterItemDropship-1.2.1",
         "FlipMods-LetMeLookDown-1.0.1",
         "FlipMods-ReservedFlashlightSlot-2.0.3",
-        "FlipMods-ReservedItemSlotCore-2.0.21",
+        "FlipMods-ReservedItemSlotCore-2.0.24",
         "FlipMods-ReservedWalkieSlot-2.0.5",
-        "FlipMods-TooManyEmotes-2.1.8",
-        "fumiko-CullFactory-1.0.4",
+        "FlipMods-TooManyEmotes-2.1.14",
+        "fumiko-CullFactory-1.1.1",
 
         "Hardy-LCMaxSoundsFix-1.1.0",
         "Hexnet111-SuitSaver-1.2.0",
@@ -54,7 +54,7 @@
 
         "kRYstall9-FastSwitchPlayerViewInRadar-1.3.2",
 
-        "LethalResonance-LETHALRESONANCE-4.2.3",
+        "LethalResonance-LETHALRESONANCE-4.2.5",
         "linkoid-DissonanceLagFix-1.0.0",
         "loaforc-loaforcsSoundAPI-1.0.10",
 
@@ -67,9 +67,9 @@
         "Midge-PushCompany-1.2.0",
         "mrov-LethalRichPresence-0.5.8",
 
-        "NotAtomicBomb-TerminalApi-1.5.3",
+        "NotAtomicBomb-TerminalApi-1.5.4",
         "NotAtomicBomb-Terminal_History-1.0.5",
-        "notnotnotswipez-MoreCompany-1.9.0",
+        "notnotnotswipez-MoreCompany-1.9.1",
 
         "Owen3H-IntroTweaks-1.5.0",
         "Ozone-BepInUtils-1.2.1",
@@ -79,7 +79,7 @@
 
         "quackandcheese-ToggleMute-1.3.1",
         "qwbarch-BarchLib-1.0.0",
-        "qwbarch-Mirage-1.5.0",
+        "qwbarch-Mirage-1.6.0",
 
         "RickArg-Helmet_Cameras-2.1.5",
         "Rune580-LethalCompany_InputUtils-0.7.4",
@@ -94,7 +94,7 @@
         "tinyhoot-ShipLoot-1.1.0",
         "TwinDimensionalProductions-CoilHeadStare-1.0.9",
 
-        "veri-ShipWindows-2.0.5",
+        "veri-ShipWindows-2.0.6",
         "ViViKo-NoSellLimit-1.0.1",
         
         "x753-More_Suits-1.4.3",

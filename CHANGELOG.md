@@ -1,3 +1,18 @@
+## 3.2.2
+- Updated:
+    - ShipWindows
+    - Mirage
+    - MoreCompany
+    - TerminalApi
+    - LETHALRESONANCE
+    - CullFactory
+    - TooManyEmotes
+    - ReservedItemSlotCore
+    - AccurateStaminaDisplay
+    - StarlancerAIFix
+    - LethalConfig
+- Now all emotes are unlocked from the start
+
 ## 3.2.1
 - Updated manifest to have all mods sorted alphabetically
 - Updated readme
