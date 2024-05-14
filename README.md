@@ -1,3 +1,7 @@
+# THE MODPACK IS DICONTINUED!
+
+I continue the work under a new modpack named [Nekomata Edition](https://thunderstore.io/c/lethal-company/p/Netruitus/Nekomata_Edition/). All future updates will be provided for the new modpack. Most of the functionality will stay the same, just the updates and support will be extended.
+
 # Lethal Company - K8 Edition
 
 Welcome to the LC K8 modpack, exclusively designed for the K8 community!
